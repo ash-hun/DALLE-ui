@@ -1,7 +1,7 @@
 """Welcome to Pynecone! This file outlines the steps to create a basic app."""
 import openai
 import pynecone as pc
-openai.api_key = "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"
+openai.api_key = "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" # It doesn't work normally, so insert your own :)
 
 
 class State(pc.State):
