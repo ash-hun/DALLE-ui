@@ -28,6 +28,11 @@ $ pc run
 |:--:|
 | <b>Fig.3 - Check the result</b>|
 
+---  
+
+### Impression
+    pynecone과 openai api의 조합은 미쳤다..!
+
 ---
 
 ### Source
